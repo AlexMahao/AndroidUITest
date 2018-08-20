@@ -1,0 +1,348 @@
+2018-08-19 15:46:28,737 desired_caps.py[line:33] INFO start app ...
+2018-08-19 15:47:10,461 desired_caps.py[line:33] INFO start app ...
+2018-08-19 17:25:29,761 run.py[line:22] INFO start run test case
+2018-08-19 17:25:29,766 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:26:34,702 commonView.py[line:63] INFO ============ is_login ==========
+2018-08-19 17:26:34,703 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:26:34,703 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:26:40,232 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:26:40,232 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:26:46,314 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:26:46,315 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:26:52,194 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:26:52,194 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:26:58,357 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:26:58,357 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:27:03,920 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:27:03,922 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:27:23,696 run.py[line:22] INFO start run test case
+2018-08-19 17:27:29,543 run.py[line:22] INFO start run test case
+2018-08-19 17:27:53,414 run.py[line:22] INFO start run test case
+2018-08-19 17:31:06,053 run.py[line:22] INFO start run test case
+2018-08-19 17:32:51,232 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:33:11,534 commonView.py[line:63] INFO ============ is_login ==========
+2018-08-19 17:33:11,535 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:33:11,535 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:33:17,027 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:33:17,027 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:33:22,658 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:33:22,658 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:33:28,623 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:33:28,623 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:33:33,699 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:33:33,699 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:33:38,705 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:33:38,705 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:33:44,057 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:33:44,057 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:40:28,743 run.py[line:22] INFO start run test case
+2018-08-19 17:40:28,747 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:40:29,143 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:41:29,226 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:41:50,042 commonView.py[line:63] INFO ============ is_login ==========
+2018-08-19 17:41:50,043 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:41:50,043 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:41:55,460 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:41:55,460 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:42:00,672 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:42:00,672 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:42:05,844 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:42:05,844 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:42:11,051 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:42:11,051 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:44:00,367 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:44:07,254 commonView.py[line:63] INFO ============ is_login ==========
+2018-08-19 17:44:07,254 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:44:07,254 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:44:07,265 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:44:12,541 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:44:12,545 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:44:12,551 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:44:17,733 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:44:17,733 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:44:17,739 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:44:22,898 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:44:22,898 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:44:22,905 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:44:28,069 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:44:28,069 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:44:28,076 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:44:33,243 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:44:33,244 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:44:33,259 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:44:38,714 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:44:38,715 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:44:38,728 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:44:43,913 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:44:43,913 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:44:43,937 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:44:49,151 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:44:49,151 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:44:49,160 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:44:54,315 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:44:54,316 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:44:54,323 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:44:59,493 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:44:59,494 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:44:59,499 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:45:04,705 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:45:04,705 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:45:04,712 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:45:09,916 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:45:09,917 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:45:09,925 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:45:15,105 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:45:15,112 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:45:15,123 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:45:20,290 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:45:20,290 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:45:20,296 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:45:25,483 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:45:25,483 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:45:25,489 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:45:30,727 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:45:30,727 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:45:30,740 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:45:35,953 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:45:35,953 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:45:35,962 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:45:41,135 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:45:41,136 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:45:41,143 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:45:46,387 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:45:46,391 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:45:46,405 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:45:51,666 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:45:51,666 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:45:51,673 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:47:04,377 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:47:11,463 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 17:47:11,464 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:47:11,464 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:47:11,470 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:47:11,471 commonView.py[line:46] INFO 1111111
+2018-08-19 17:47:16,742 commonView.py[line:49] INFO 2222222
+2018-08-19 17:47:18,885 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:47:18,895 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:48:21,789 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:48:31,267 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 17:48:31,267 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:48:31,267 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:48:31,277 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:48:31,277 commonView.py[line:46] INFO 1111111
+2018-08-19 17:48:36,529 commonView.py[line:49] INFO 2222222
+2018-08-19 17:48:38,958 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:48:38,975 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:52:49,680 run.py[line:22] INFO start run test case
+2018-08-19 17:52:49,684 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:52:59,288 commonView.py[line:66] INFO ============ is_login ==========
+2018-08-19 17:52:59,291 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:52:59,291 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:52:59,306 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:52:59,306 commonView.py[line:47] INFO 1111111
+2018-08-19 17:53:04,580 commonView.py[line:50] INFO 2222222
+2018-08-19 17:53:06,879 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:53:06,889 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:53:12,264 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:53:21,031 commonView.py[line:66] INFO ============ is_login ==========
+2018-08-19 17:53:21,032 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:53:21,033 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:53:21,047 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:53:21,047 commonView.py[line:47] INFO 1111111
+2018-08-19 17:53:26,621 commonView.py[line:50] INFO 2222222
+2018-08-19 17:53:28,163 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:53:29,355 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:53:29,371 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:53:38,846 commonView.py[line:66] INFO ============ is_login ==========
+2018-08-19 17:53:38,846 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:53:38,846 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:53:38,857 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:53:38,858 commonView.py[line:47] INFO 1111111
+2018-08-19 17:53:44,245 commonView.py[line:50] INFO 2222222
+2018-08-19 17:53:46,518 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:53:46,530 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:55:42,414 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:55:51,351 commonView.py[line:66] INFO ============ is_login ==========
+2018-08-19 17:55:51,351 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:55:51,351 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:55:51,359 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:55:51,359 commonView.py[line:47] INFO 1111111
+2018-08-19 17:55:56,679 commonView.py[line:50] INFO 2222222
+2018-08-19 17:55:58,889 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:55:58,903 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:56:47,995 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:56:56,834 commonView.py[line:67] INFO ============ is_login ==========
+2018-08-19 17:56:56,834 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:56:56,834 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:56:56,846 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:56:56,847 commonView.py[line:47] INFO 1111111
+2018-08-19 17:57:02,157 commonView.py[line:51] INFO 2222222
+2018-08-19 17:57:04,522 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:57:04,534 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:57:44,836 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:57:53,489 commonView.py[line:67] INFO ============ is_login ==========
+2018-08-19 17:57:53,489 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:57:53,490 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:57:53,499 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:57:53,499 commonView.py[line:47] INFO 1111111
+2018-08-19 17:58:24,485 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:58:33,545 commonView.py[line:67] INFO ============ is_login ==========
+2018-08-19 17:58:33,545 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:58:33,545 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:58:33,554 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:58:33,555 commonView.py[line:47] INFO 1111111
+2018-08-19 17:58:53,920 desired_caps.py[line:32] INFO start app ...
+2018-08-19 17:59:03,498 commonView.py[line:67] INFO ============ is_login ==========
+2018-08-19 17:59:03,499 commonView.py[line:43] INFO ============ go_main_activity ==========
+2018-08-19 17:59:03,500 commonView.py[line:33] INFO =================== check_ad_dialog ==============
+2018-08-19 17:59:03,518 commonView.py[line:37] INFO ad dialog not exist
+2018-08-19 17:59:03,519 commonView.py[line:47] INFO 1111111
+2018-08-19 18:02:45,654 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:02:52,825 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 18:02:52,826 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-19 18:02:52,826 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:03:01,344 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:03:57,973 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:04:07,567 commonView.py[line:66] INFO ============ is_login ==========
+2018-08-19 18:04:07,567 commonView.py[line:45] INFO ============ go_main_activity ==========
+2018-08-19 18:04:07,567 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:04:07,580 commonView.py[line:39] INFO ad dialog not exist
+2018-08-19 18:04:16,219 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:04:25,349 commonView.py[line:66] INFO ============ is_login ==========
+2018-08-19 18:04:25,349 commonView.py[line:45] INFO ============ go_main_activity ==========
+2018-08-19 18:04:25,350 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:04:33,562 commonView.py[line:39] INFO ad dialog not exist
+2018-08-19 18:06:22,372 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:06:31,459 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 18:06:31,460 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-19 18:06:31,460 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:06:39,672 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:07:48,272 run.py[line:22] INFO start run test case
+2018-08-19 18:07:48,275 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:08:05,532 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 18:08:05,532 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-19 18:08:05,532 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:08:18,952 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:09:22,838 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 18:09:22,838 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-19 18:09:22,838 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:09:31,246 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:09:54,166 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:10:02,219 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:10:09,374 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:10:25,502 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 18:10:25,502 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-19 18:10:25,502 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:10:39,953 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:14:50,749 run.py[line:22] INFO start run test case
+2018-08-19 18:14:50,753 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:15:46,153 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:16:06,733 run.py[line:22] INFO start run test case
+2018-08-19 18:16:06,737 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:16:44,425 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:17:06,089 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 18:17:06,090 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-19 18:17:06,091 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:17:24,404 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:18:17,858 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 18:18:17,860 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-19 18:18:17,860 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:18:26,339 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:18:44,481 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:18:47,241 commonView.py[line:40] INFO close ad dialog
+2018-08-19 18:24:44,979 run.py[line:22] INFO start run test case
+2018-08-19 18:24:44,983 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:26:05,206 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:26:27,042 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 18:26:27,042 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-19 18:26:27,042 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:26:49,431 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:29:55,665 run.py[line:22] INFO start run test case
+2018-08-19 18:29:55,677 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:30:21,455 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:30:39,708 run.py[line:22] INFO start run test case
+2018-08-19 18:30:39,712 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:31:08,057 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:31:29,754 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 18:31:29,754 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-19 18:31:29,754 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:31:48,023 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:32:17,459 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 18:32:17,459 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-19 18:32:17,459 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:32:25,697 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:32:51,544 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:33:08,899 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:35:22,280 run.py[line:22] INFO start run test case
+2018-08-19 18:35:22,283 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:35:38,764 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 18:35:38,764 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-19 18:35:38,764 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:35:59,428 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:36:22,307 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 18:36:22,307 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-19 18:36:22,307 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:36:42,599 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:37:21,281 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:37:42,095 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:37:53,337 desired_caps.py[line:32] INFO start app ...
+2018-08-19 18:38:11,594 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 18:38:11,594 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-19 18:38:11,594 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:38:32,179 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:39:00,531 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-19 18:39:00,531 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-19 18:39:00,531 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:39:20,742 commonView.py[line:38] INFO ad dialog not exist
+2018-08-19 18:39:58,534 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-19 18:40:18,687 commonView.py[line:38] INFO ad dialog not exist
+2018-08-20 11:29:55,809 run.py[line:22] INFO start run test case
+2018-08-20 11:29:55,813 desired_caps.py[line:32] INFO start app ...
+2018-08-20 11:30:37,291 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-20 11:30:37,292 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-20 11:30:37,292 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-20 11:30:57,743 commonView.py[line:38] INFO ad dialog not exist
+2018-08-20 11:31:15,467 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-20 11:31:15,467 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-20 11:31:15,468 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-20 11:31:35,925 commonView.py[line:38] INFO ad dialog not exist
+2018-08-20 11:31:57,317 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-20 11:32:17,909 commonView.py[line:38] INFO ad dialog not exist
+2018-08-20 11:32:28,028 desired_caps.py[line:32] INFO start app ...
+2018-08-20 11:32:46,102 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-20 11:32:46,103 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-20 11:32:46,103 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-20 11:33:06,199 commonView.py[line:38] INFO ad dialog not exist
+2018-08-20 11:33:34,509 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-20 11:33:34,509 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-20 11:33:34,509 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-20 11:33:54,550 commonView.py[line:38] INFO ad dialog not exist
+2018-08-20 11:34:12,068 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-20 11:34:18,944 commonView.py[line:40] INFO close ad dialog
+2018-08-20 15:05:11,710 run_case.py[line:22] INFO start run test case
+2018-08-20 15:05:11,714 desired_caps.py[line:32] INFO start app ...
+2018-08-20 15:06:02,139 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-20 15:06:02,140 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-20 15:06:02,140 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-20 15:06:14,742 commonView.py[line:38] INFO ad dialog not exist
+2018-08-20 15:06:35,158 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-20 15:06:35,159 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-20 15:06:35,160 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-20 15:06:41,343 commonView.py[line:38] INFO ad dialog not exist
+2018-08-20 15:07:20,179 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-20 15:07:31,803 commonView.py[line:38] INFO ad dialog not exist
+2018-08-20 15:07:42,962 desired_caps.py[line:32] INFO start app ...
+2018-08-20 15:08:03,540 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-20 15:08:03,541 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-20 15:08:03,541 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-20 15:08:13,573 commonView.py[line:38] INFO ad dialog not exist
+2018-08-20 15:08:40,694 commonView.py[line:65] INFO ============ is_login ==========
+2018-08-20 15:08:40,695 commonView.py[line:44] INFO ============ go_main_activity ==========
+2018-08-20 15:08:40,695 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-20 15:08:48,378 commonView.py[line:38] INFO ad dialog not exist
+2018-08-20 15:09:07,621 commonView.py[line:34] INFO =================== check_ad_dialog ==============
+2018-08-20 15:09:12,802 commonView.py[line:40] INFO close ad dialog
+2018-08-20 15:13:11,056 run_case.py[line:22] INFO start run test case
+2018-08-20 15:13:11,060 desired_caps.py[line:32] INFO start app ...
+2018-08-20 15:40:04,195 run_case.py[line:15] INFO start run test case
+2018-08-20 15:43:09,153 run_case.py[line:15] INFO start run test case

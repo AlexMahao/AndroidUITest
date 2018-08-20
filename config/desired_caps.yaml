@@ -1,0 +1,14 @@
+
+platformName: Android
+platformVersion: 4.4
+deviceName: appium3
+appPackage: com.souyidai.investment.android
+appActivity: .ui.main.MainActivity
+avd: appium3
+avdArgs: -gpu host
+unicodeKeyboard: True
+resetKeyboard: True
+noReset: False
+app: /Users/android-dev/Desktop/appium/HuliClient-debug-3.4.1-PC-resin.apk
+ip: 127.0.0.1
+port: 4723
